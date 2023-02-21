@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Touch-me-not-Card/static/css/main.073c9b0a.css",
+    "main.js": "/Touch-me-not-Card/static/js/main.b05420f0.js",
+    "static/js/787.a1bf3e51.chunk.js": "/Touch-me-not-Card/static/js/787.a1bf3e51.chunk.js",
+    "static/media/cartoon.png": "/Touch-me-not-Card/static/media/cartoon.665ec68b9ee8ae16bd3c.png",
+    "static/media/background.jpg": "/Touch-me-not-Card/static/media/background.573e116e22d22c15dfa0.jpg",
+    "index.html": "/Touch-me-not-Card/index.html",
+    "main.073c9b0a.css.map": "/Touch-me-not-Card/static/css/main.073c9b0a.css.map",
+    "main.b05420f0.js.map": "/Touch-me-not-Card/static/js/main.b05420f0.js.map",
+    "787.a1bf3e51.chunk.js.map": "/Touch-me-not-Card/static/js/787.a1bf3e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b05420f0.js"
+  ]
+}
